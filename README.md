@@ -2,9 +2,9 @@
 JavaSE 기반의 개인 프로젝트
 
 프로젝트명 : NoticeBoard<br>
-프로젝트 설명 : 회원가입 및 로그인,게시판 CRUD구현
-적용 기술 : java 8.x , oracle 11g, Mybatis
-개발 환경 : Eclipse
+프로젝트 설명 : 회원가입 및 로그인,게시판 CRUD구현<br>
+적용 기술 : java 8.x , oracle 11g, Mybatis<br>
+개발 환경 : Eclipse<br>
 
 <img src="https://postfiles.pstatic.net/MjAxOTA1MTRfMjg0/MDAxNTU3NzczNTA1ODkw.jLyXHHac9us9Tll88cUbOHLDTVaTLI4QDwmvKSBQRfQg.IYYt9dBGMoy5sa13HaeODRo4GApkABNBZudGO-RKD7Ag.PNG.wonjjang44/image.png?type=w773"/>
   -로그인과 회원가입 양식이다<br>
